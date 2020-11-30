@@ -1,0 +1,13 @@
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+C:\Users\jami2\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
